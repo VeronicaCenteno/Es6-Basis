@@ -1,0 +1,34 @@
+{
+  "name": "es6-basis",
+  "version": "1.0.0",
+  "description": "Aprender nociones js ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronicaCenteno/Es6-Basis.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "funciones"
+  ],
+  "author": "Veronica Centeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronicaCenteno/Es6-Basis/issues"
+  },
+  "homepage": "https://github.com/VeronicaCenteno/Es6-Basis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colorss": "^0.0.1-security"
+  }
+}
